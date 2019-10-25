@@ -1,0 +1,13 @@
+{
+	"firstName": "Super",
+	"lastName": "Hero",
+	"preferredName": "SH",
+	"email": "superhero@superhero.com",
+	"phoneNumber": "206-123-4567",
+	"city": "Seattle",
+	"state": "WA",
+	"zip": "98113",
+	"lat": "47.6062",
+	"lng": "-122.3321",
+	"favoriteHobby": "Being Super Hero"
+}
