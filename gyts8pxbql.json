@@ -9,5 +9,9 @@
 	"zip": "60451",
 	"lat": "41.5120",
 	"lng": "-87.9656",
-	"favoriteHobby": "Playing Guitar"
+	"favoriteHobby": "Playing Guitar",
+	"major": {
+		"major1": "Computer Science", 
+		"major2": "Math"
+	}
 }

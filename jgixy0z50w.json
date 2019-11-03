@@ -1,13 +1,13 @@
 {
-	"firstName": "Super",
-	"lastName": "Hero",
-	"preferredName": "SH",
-	"email": "superhero@superhero.com",
-	"phoneNumber": "206-123-4567",
-	"city": "Seattle",
-	"state": "WA",
-	"zip": "98113",
-	"lat": "47.6062",
-	"lng": "-122.3321",
-	"favoriteHobby": "Being Super Hero"
+	"firstName": "Barry",
+	"lastName": "Allen",
+	"preferredName": "The Flash",
+	"email": "barryallen@starlabs.net",
+	"phoneNumber": "417-232-7848",
+	"city": "Central City",
+	"state": "MO",
+	"zip": "64801",
+	"lat": "37.0856",
+	"lng": "-94.5836",
+	"favoriteHobby": "Running"
 }
